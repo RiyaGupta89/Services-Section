@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper{
+    text-align: center;
+    margin: 50px 100px;
+    padding: 10px 50px;
+    font-family: 'Lato', sans-serif;
+}
+
+section .heading{
+    text-transform: uppercase;
+    font-size: 23px;
+    letter-spacing: 0.5px;
+}
+
+section .para{
+    width: 60%;
+    position: relative;
+    left: 190px;
+    padding: 26px 32px;
+    font-size: 15px;
+    line-height: 1.5;
+    margin-bottom: 25px;
+}
+
+.cards{
+  margin-left: 80px;
+}
+
+.card1{
+    float: left;
+    width: 290px;
+    margin-right: 10px;
+}
+
+.card1 img{
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.card1 h3{
+    margin-bottom: 10px;
+}
+.card1 p{
+    margin-bottom: 10px;
+    font-size: 12px;
+    line-height: 22px;
+}
+
+.card2{
+    width: 290px;
+    float: left;
+    margin-right: 10px;
+}
+
+.card2 img{
+    width: 100%;
+    height: 193px;
+    margin-bottom: 30px;
+}
+.card2 h3{
+    margin-bottom: 10px;
+}
+.card2 p{
+    margin-bottom: 10px;
+    font-size: 12px;
+    line-height: 22px;
+}
+
+
+.card3{
+    width: 290px;
+   float: left;
+}
+.card3 h3{
+    margin-bottom: 10px;
+}
+.card3 p{
+    margin-bottom: 10px;
+    font-size: 12px;
+    line-height: 22px;
+}
+
+.card3 img{
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.yellow-color{
+    color: #e2ab2a;
+}
+
+.card1 img:hover{
+    border: 2px solid #e2ab2a;
+}
+
+
+.card2 img:hover{
+    border: 2px solid #e2ab2a;
+}
+
+
+.card3 img:hover{
+    border: 2px solid #e2ab2a;
+}
